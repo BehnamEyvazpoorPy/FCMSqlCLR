@@ -1,0 +1,29 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [DirectSpMessageHelper] (Assembly)
+     Create
+       [DirectSpMessageHelper] (Assembly)
+
+** Supporting actions
+     Drop
+       [dbo].[Fcm_AddTokenToGroup] (Procedure)
+       [dbo].[Fcm_Send] (Procedure)
+       [dbo].[Message_$SendBulkHelper] (Procedure)
+     Create
+       [dbo].[Fcm_AddTokenToGroup] (Procedure)
+       [dbo].[Fcm_Send] (Procedure)
+
+If this deployment is executed, changes to [dbo].[Fcm_AddTokenToGroup] might introduce run-time errors in [api].[ApplicationUser_RegisterFcmToken].
+If this deployment is executed, changes to [dbo].[Fcm_Send] might introduce run-time errors in [dbo].[Message_$FlushFcm].
+If this deployment is executed, [dbo].[Message_$SendBulkHelper] will be dropped and not re-created.
+

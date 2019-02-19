@@ -1,0 +1,13 @@
+C:\Users\behnam\Documents\Visual Studio 2017\FCMCLR\DirectSpMessageHelper\bin\Debug\MessageHelper.dacpac
+C:\Users\behnam\Documents\Visual Studio 2017\FCMCLR\DirectSpMessageHelper\bin\Debug\MessageHelper.dll
+C:\Users\behnam\Documents\Visual Studio 2017\FCMCLR\DirectSpMessageHelper\bin\Debug\MessageHelper.pdb
+C:\Users\behnam\Documents\Visual Studio 2017\FCMCLR\DirectSpMessageHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\behnam\Documents\Visual Studio 2017\FCMCLR\DirectSpMessageHelper\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\behnam\Documents\Visual Studio 2017\FCMCLR\DirectSpMessageHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\behnam\Documents\Visual Studio 2017\FCMCLR\DirectSpMessageHelper\obj\Debug\Model.xml
+C:\Users\behnam\Documents\Visual Studio 2017\FCMCLR\DirectSpMessageHelper\obj\Debug\refactor.xml
+C:\Users\behnam\Documents\Visual Studio 2017\FCMCLR\DirectSpMessageHelper\obj\Debug\postdeploy.sql
+C:\Users\behnam\Documents\Visual Studio 2017\FCMCLR\DirectSpMessageHelper\obj\Debug\predeploy.sql
+C:\Users\behnam\Documents\Visual Studio 2017\FCMCLR\DirectSpMessageHelper\obj\Debug\MessageHelper.sqlproj.CopyComplete
+C:\Users\behnam\Documents\Visual Studio 2017\FCMCLR\DirectSpMessageHelper\obj\Debug\MessageHelper.dll
+C:\Users\behnam\Documents\Visual Studio 2017\FCMCLR\DirectSpMessageHelper\obj\Debug\MessageHelper.pdb
